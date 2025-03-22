@@ -403,7 +403,7 @@ h1 {
 .prompt {
   font-family: var(--font);
   color: var(--color5);
-  opacity: 0.25;
+  opacity: 0.2;
 }
 
 input:focus,
@@ -597,4 +597,10 @@ input {
 }
 .theme-changer label:hover {
   color: var(--color12);
+}
+
+/* other custom */
+
+.search-bar {
+  display: none;
 }
