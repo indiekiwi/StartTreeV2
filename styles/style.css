@@ -460,6 +460,11 @@ button:focus {
   max-width: 20rem;
 }
 
+.category:first-of-type > h1 {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
 li.bookmark > * {
   display: inline-block;
 }
