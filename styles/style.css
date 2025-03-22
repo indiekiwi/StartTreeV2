@@ -403,6 +403,7 @@ h1 {
 .prompt {
   font-family: var(--font);
   color: var(--color5);
+  opacity: 0.25;
 }
 
 input:focus,
